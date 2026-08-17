@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 220" role="img" aria-label="ALIEN Pranav M K">
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M80 30 V160" stroke="#F4F7F5" stroke-width="7"/>
+    <path d="M27 57 L128 76 L30 107 L134 135" stroke="#F4F7F5" stroke-width="7"/>
+    <path d="M115 73 L128 76" stroke="#B7FF00" stroke-width="9"/>
+    <path d="M121 132 L134 135" stroke="#B7FF00" stroke-width="9"/>
+  </g>
+  <text x="190" y="105" fill="#F4F7F5" font-family="Arial, Helvetica, sans-serif" font-size="72" letter-spacing="17">ALIEN</text>
+  <text x="196" y="153" fill="#B7FF00" font-family="monospace" font-size="18" letter-spacing="7">PRANAV M K</text>
+</svg>
