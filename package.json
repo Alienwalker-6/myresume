@@ -1,0 +1,23 @@
+{
+  "name": "alien-portfolio",
+  "version": "1.0.0",
+  "description": "ALIEN — Pranav M K Portfolio. Cybersecurity, software development, QA and practical technical projects.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alienwalker-6/myresume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alienwalker-6/myresume/issues"
+  },
+  "homepage": "https://github.com/Alienwalker-6/myresume#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
