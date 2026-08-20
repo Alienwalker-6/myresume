@@ -4,7 +4,8 @@
   "description": "ALIEN — Pranav M K Portfolio. Cybersecurity, software development, QA and practical technical projects.",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"No tests specified\" && exit 0"
+    "test": "echo \"No tests specified\" && exit 0",
+    "update-speed-insights": "cp node_modules/@vercel/speed-insights/dist/index.mjs js/speed-insights-lib.mjs"
   },
   "repository": {
     "type": "git",
